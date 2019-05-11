@@ -1,0 +1,12 @@
+* About
+
+Creates the illusion of an infinite world in Unity. Click [[https://youtu.be/_TCTPmAFNC4][here]] for a demo.
+
+* Howto
+
+  * Create an empty gameobject and add this script as an component.
+  * Drag the object on which to center on the _center object_ field (like the player).
+  * Drag the object you which to appear infinite in the world on the _this object_ field.
+  * The _size_ field controls the amount of space between the objects.
+  * The _field of view_ field controls how far you can see in the distance.
+
